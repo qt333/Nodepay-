@@ -34,7 +34,7 @@ Automation approach for nodepay.ai chrome extension
 - 🔒 **Low trafic usage**
 
 ## Pricing
--💰 $29
+💰 $29
 
 ## 💻 Requirements
 
@@ -84,10 +84,6 @@ email:password
 ```
 scheme://user:pass@ip:port
 ```
-#### data/token_db.json
-```
-tokens data that will reused while token a valid
-```
 
 ## 🚀 Usage
 
@@ -100,7 +96,7 @@ tokens data that will reused while token a valid
 
 #### 🌐 Cloud Flare Exception
 - Use good proxies
-- If error occurs more frequently, turn of soft for hour or two and then run again (after proxies rotation problem should be solved)
+- If error occurs more frequently, turn off soft for hour or two and then run again (after proxies rotate - problem should be solved)
 
 ## 📞 Contact
 
